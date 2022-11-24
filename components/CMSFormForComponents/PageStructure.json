@@ -1,0 +1,17 @@
+{
+    "sections":{
+        "main_section":{
+            "section_heading":"Main Section",
+            "components":[
+                {"component":"HeroComponent"}
+            ]},
+        "second_section":{
+            "section_heading":"Second Section",
+            "components":[
+                {"component":"TextComponent"},
+                {"component":"CardComponent"},
+                {"component":"CardComponent"},
+                {"component":"CardComponent"}
+            ]}
+    }
+}

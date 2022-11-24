@@ -1,0 +1,21 @@
+{
+    "Heading":"Card Component",
+    "fields":[{
+        "label":"Theme",
+        "placeholder":"Lorem Ipsum",
+        "type":"color"    
+    },{
+        "label":"Image",
+        "placeholder":"Lorem Ipsum",
+        "type":"file"
+    },{
+        "label":"Title",
+        "placeholder":"Title of the card",
+        "type":"text"
+    },{
+        "label":"Text",
+        "placeholder":"Text For the card",
+        "type":"textarea"
+    }
+    ]
+}

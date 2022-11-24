@@ -1,0 +1,25 @@
+{
+    "Heading":"TextComponent",
+    "fields":[{
+
+        "label":"Text for the component",
+        "placeholder":"Text to be placed",
+        "type":"textarea"
+    },
+    {
+
+        "label":"Theme",
+        "placeholder":"Theme for the Component",
+        "type":"color"
+    },
+    {
+
+        "label":"Alignment",
+        "placeholder":"Alignment of the text",
+        "type":"select",
+        "options":["left","right"]
+    }
+]
+
+
+}

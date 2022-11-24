@@ -1,0 +1,26 @@
+{
+    "Heading":"HeroComponent",
+    "fields":[{
+
+            "label":"Heading",
+            "placeholder":"Theme Building",
+            "type":"text"
+        },{
+            "label":"Color",
+            "placeholder":"Lorem Ipsum",
+            "type":"color"    
+        },{
+            "label":"Buttons",
+            "placeholder":"Lorem Ipsum",
+            "type":"text"
+        },{
+            "label":"Links",
+            "placeholder":"Lorem Ipsum",
+            "type":"text"
+        },{
+            "label":"Image",
+            "placeholder":"Lorem Ipsum",
+            "type":"file"
+        }
+    ]
+}
